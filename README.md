@@ -2,10 +2,6 @@
 
 > A web application to help you find your next rental property.
 
-
-
-This is the second iteration of the app/course that uses server actions instead of API routes.
-
 The `_theme_files` folder contains the pure HTML files with Tailwind classes.
 
 <img src="/public/images/screen.jpg" />
